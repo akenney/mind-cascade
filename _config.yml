@@ -1,0 +1,11 @@
+# Site settings
+title: how your mind works
+email: akenney@alum.mit.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Reference materials for class for ESP Cascade 2015.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  akenney
+
+# Build settings
+markdown: kramdown
