@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /attention/
-title: "Week 1: Attention"
+title: "Attention"
 date: 2015-10-03
 ---
 
