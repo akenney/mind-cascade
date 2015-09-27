@@ -243,16 +243,14 @@
     font-size: 12px;
 }
 
-.home {
-    display: flex;
-    flex-direction: row;
-}
-
 .left-column {
-    flex-grow: 4;
     margin-right: 20px;
+    max-width: 20%;
+    float: left;
+    vertical-align: top;
 }
 
 .right-column {
-    flex-grow: 6;
+    max-width: 75%;
+    float: right;
 }
