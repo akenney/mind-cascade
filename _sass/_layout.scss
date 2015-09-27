@@ -242,3 +242,17 @@
 .rss-subscribe {
     font-size: 12px;
 }
+
+.home {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-column {
+    flex-grow: 4;
+    margin-right: 20px;
+}
+
+.right-column {
+    flex-grow: 6;
+}
