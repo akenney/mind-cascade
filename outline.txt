@@ -1,0 +1,145 @@
+ideas for ESP class on psychology
+
+
+Attention / perception
+* you notice what you're paying attention to and not other things
+  - example: cocktail party effect
+  - demo: gorilla/basketball video
+  - demo: card trick video
+  - example: change blindness: "person-swapping" video
+* attentional blink
+* repetition blindness
+  - demo: you're less likely to remember second occurrence of same word/item in a sequence
+* subliminal perception / priming
+  - example: popcorn/Coke messages in movie theatres (possibly made up though)
+  - demo: subliminal priming with positive/negative image affects opinions of subsequent image
+
+
+Vision / perception
+* visual search / pop-out
+  - demo: conjunction search
+* one aspect of a stimulus can affect your perception of other aspects
+  - demo: Stroop task
+  - demo: line seems longer if it takes more time to get that way
+* context affects your interpretation of the same stimulus
+  - example: high-level: B vs 13; summoning a lemon
+  - demo: low-level: pink/orange rings
+  - demo: seal vs woman, etc
+* a lot of things you "see" are actually your brain filling in probable information
+  - example: you can't see during saccades
+  - demo: [TODO]
+* your brain automatically adjusts for perspective/angle/lighting/etc
+  - demo: checkerboard shadow, Rubik's cube colors, etc
+  - demo: railroad tracks perspective
+
+
+Learning / memory
+* conditioning
+  + classical (Pavlovian) conditioning: associate stimulus with result
+    - examples: Little Albert, advertising using sex
+    - demo: [TODO]
+  + operant conditioning: associate consequence with action
+    - examples: acquired food aversion, learning to obey parents
+    - demo: [TODO]
+  + some things can be associated more easily than others
+    - example: rats can associate taste with nausea and light/sound with shock but not vice-versa
+* flashbulb memories
+* false memories
+  - example: Bugs Bunny at Disneyland
+  - demo: listen to list of words, recall word that wasn't in the list ("sweet")
+* the more you process something, the better you remember it
+  - example: decide whether word is capitalized / fits in sentence
+  - demo: spaced vs massed repetition
+* availability heuristic
+  - eaxmple: does k occur more often as first letter or third letter of a word?
+  - example: likelihood of dying from a terrorist attack versus drowning in a bathtub
+* you remember things better in context that you learned them
+  - example: memorizing and recalling word lists under water
+  - demo: switching seats
+* implicit versus explicit
+  - example: shaking hands with amnesia patient
+  - demo: [TODO]
+
+
+Language / mental representation
+* phonemes are categorical
+* combining multiple input sources
+  - demo: McGurk effect
+* word segmentation is not obvious
+  - example: "where are the silences between words?"
+  - example: babies learning from conditional probabilities
+* word learning
+  - example: co-occurrence probabilities
+  - demo: pragmatics/informativeness
+* different words contain different amounts of information, context is important
+  - demo: "little" out of context
+  - demo: how many guesses to guess the next letter
+* mental representations of language
+  - demo: semantic priming: [TODO]
+  - demo: syntactic priming: [TODO]
+* categories
+  - demo: category levels: is this a tufa?
+  - demo: prototypes: draw a chair, show me a color
+  - demo: asymmetric similarity: how much is a chicken like a sparrow vs a sparrow like a chicken?
+
+
+Decision-making / logic
+* framing
+  - demo: "none will be saved" vs "all will die"
+* people have bad intuition for some kinds of probability
+  - demo: which is more likely, HHHHH or HTHHT?
+  - demo: base rate neglect
+  - demo: birthday problem
+* anchoring / availability
+  - example (from Dan Ariely): Tom Sawyer
+  - example: quiz show study
+  - example: $5 difference in cost for $2 pen vs $200 suit
+  - example: "foot-in-the-door" technique
+  - demo: write down the last two digits of your SSN, would you pay more or less for item?  how much?
+* confirmation bias (in hypothesis testing, interpreting, and remembering)
+  - example: people judge studies that support their opinions to be better-conducted
+  - demo: Wason card task
+* opinions/behaviors depend on expectations
+  - example: vinegar in beer
+  - example: stereotype threat: write down ethnicity/gender before taking test
+  - example: self-fulfilling prophecy: blue-eyed vs brown-eyed scarves
+  - example: self-fulfilling prophecy: people perceived as attractive behave more attractively
+* cognitive dissonance
+  - example: place value on sports tickets you did or didn't get
+  - demo: do a boring task for a reward or for free, rate its enjoyability
+* you like things better that are more familiar
+  - example: friendships are largely based on who you happen to be around
+  - example: writing about a belief makes you believe it more strongly
+  - demo: random characters
+
+
+Social / morality
+* emotions are relative
+  - example: people who win the lottery / become paraplegic
+* physical state affects emotional state
+  - example: pencil in mouth
+  - example: heartbeat sound while judging attractiveness
+* behavior is very context-dependent and different from what you think you would do
+  - example: social desirability bias
+  - example: good Samaritan effect
+  - example: bystander effect
+  - example: Asch conformity study, broken window theory
+  - example: Milgram and obedience
+  - example: Stanford Prison Experiment
+* perception of people
+  + ingroup is heterogeneous and other people are all the same
+  + my behavior is based on circumstances but other people's is based on personality
+  - example: halo effect: people wearing "fake" sunglasses cheat more
+  - demo: halo effect
+* internal versus external motivation
+  - example: rewarding kids for drawing pictures
+  - example: praise for behavior versus for personality
+* social interaction/roles
+  - example: rats and cocaine versus playground
+  - example: learned helplessness
+* morality
+  - demo: punishment based on outcome rather than intention
+  - demo: trolley problem
+  - demo: ultimatum game
+
+
