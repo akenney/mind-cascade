@@ -1,23 +1,31 @@
-ideas for ESP class on psychology
+Lecture notes
 
 
 Attention / perception
-* you notice what you're paying attention to and not other things
+* you notice what you're paying attention to and not other things ("spotlight")
+  - you can switch focus back and forth [TODO find image]
+  - demo: multiple object tracking
   - example: cocktail party effect
+      + hard but possible if hearing two things from same voice through both ears
+      + pretty easy if through different ears
+      + demo: (verbal shadowing) some things can draw your attention (e.g. your name, maybe) [TODO come up with text]
+      + don't notice things about unattended stimulus, e.g. content/language/backwards
   - demo: gorilla/basketball video
   - demo: card trick video
   - example: change blindness: "person-swapping" video
 * attentional blink
 * repetition blindness
-  - demo: you're less likely to remember second occurrence of same word/item in a sequence
+  - demo: you're less likely to remember second occurrence of same word/item in a sequence [TODO find example]
 * subliminal perception / priming
-  - example: popcorn/Coke messages in movie theatres (possibly made up though)
-  - demo: subliminal priming with positive/negative image affects opinions of subsequent image
+  - example: popcorn/Coke messages in movie theatres (probably made up though)
+  - demo: subliminal priming with positive/negative image affects opinions of subsequent image [TODO]
 
 
 Vision / perception
 * visual search / pop-out
-  - demo: conjunction search
+  - demo: conjunction search (why Where's Waldo is hard)
+* features are perceived separately and combined (illusory conjunction)
+  - example: words and italics
 * one aspect of a stimulus can affect your perception of other aspects
   - demo: Stroop task
   - demo: line seems longer if it takes more time to get that way
