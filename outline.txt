@@ -8,7 +8,7 @@ Attention / perception
   - example: cocktail party effect
       + hard but possible if hearing two things from same voice through both ears
       + pretty easy if through different ears
-      + demo: (verbal shadowing) some things can draw your attention (e.g. your name, maybe) [TODO come up with text]
+      + demo: (verbal shadowing) some things can draw your attention (e.g. your name, maybe)
       + don't notice things about unattended stimulus, e.g. content/language/backwards
   - demo: gorilla/basketball video
   - demo: card trick video
@@ -18,28 +18,26 @@ Attention / perception
   - demo: you're less likely to remember second occurrence of same word/item in a sequence
 * subliminal perception / priming
   - example: popcorn/Coke messages in movie theatres (probably made up though)
-  - demo: subliminal priming with positive/negative image affects opinions of subsequent image [TODO]
+  - example: subliminal priming with positive/negative image affects opinions of subsequent image
 * blindsight, hemisphere neglect
 
 
 Vision / perception
-* visual search / pop-out
-  - demo: conjunction search (why Where's Waldo is hard)
-* features are perceived separately and combined (illusory conjunction)
-  - example: words and italics
-* one aspect of a stimulus can affect your perception of other aspects
-  - demo: Stroop task
-  - demo: line seems longer if it takes more time to get that way
 * context affects your interpretation of the same stimulus
-  - example: high-level: B vs 13; summoning a lemon
+  - example: high-level: Necker cube; B vs 13; summoning a lemon
   - demo: low-level: pink/orange rings
-  - demo: seal vs woman, etc
-* a lot of things you "see" are actually your brain filling in probable information
-  - example: you can't see during saccades
-  - demo: [TODO]
 * your brain automatically adjusts for perspective/angle/lighting/etc
   - demo: checkerboard shadow, Rubik's cube colors, etc
   - demo: railroad tracks perspective
+* a lot of things you "see" are actually your brain filling in probable information
+  - example: you can't see during saccades
+* one aspect of a stimulus can affect your perception of other aspects
+  - demo: Stroop task
+  - example: line seems longer if it takes more time to get that way
+* visual search / pop-out
+  - demo: conjunction search
+* features are perceived separately and combined (illusory conjunction)
+  - example: words and italics
 
 
 Learning / memory
@@ -90,6 +88,8 @@ Language / mental representation
   - demo: category levels: is this a tufa?
   - demo: prototypes: draw a chair, show me a color
   - demo: asymmetric similarity: how much is a chicken like a sparrow vs a sparrow like a chicken?
+  - you can recognize things from different positions, angles, occlusions, etc
+      (cf 9.00 lecture 5 slide 11)
 
 
 Decision-making / logic
