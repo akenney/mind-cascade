@@ -43,29 +43,32 @@ Vision / perception
 Learning / memory
 * conditioning
   + classical (Pavlovian) conditioning: associate stimulus with result
-    - examples: Little Albert, advertising using sex
-    - demo: [TODO]
+    - demo: shapes and sounds
+    - example: Little Albert
+    - example: advertising
   + operant conditioning: associate consequence with action
-    - examples: acquired food aversion, learning to obey parents
-    - demo: [TODO]
+    - example: acquired food aversion
+    - example: learning to obey parents
   + some things can be associated more easily than others
     - example: rats can associate taste with nausea and light/sound with shock but not vice-versa
 * flashbulb memories
 * false memories
   - example: Bugs Bunny at Disneyland
   - demo: listen to list of words, recall word that wasn't in the list ("sweet")
+* encoding
+  - chunks, 7 +/- 2
+  - example: chessmasters are better at remembering chess boards, but *worse* at unrealistic ones
 * the more you process something, the better you remember it
   - example: decide whether word is capitalized / fits in sentence
   - demo: spaced vs massed repetition
-* availability heuristic
-  - eaxmple: does k occur more often as first letter or third letter of a word?
-  - example: likelihood of dying from a terrorist attack versus drowning in a bathtub
 * you remember things better in context that you learned them
+  - demo: memorizing and recalling word list in same or different location
   - example: memorizing and recalling word lists under water
-  - demo: switching seats
 * implicit versus explicit
+  - demo: which direction is Mona Lisa facing
   - example: shaking hands with amnesia patient
-  - demo: [TODO]
+* why do we forget things?
+  - people who remember everything
 
 
 Language / mental representation
@@ -99,9 +102,12 @@ Decision-making / logic
   - demo: which is more likely, HHHHH or HTHHT?
   - demo: base rate neglect
   - demo: birthday problem
-* anchoring / availability
-  - example (from Dan Ariely): Tom Sawyer
+* availability heuristic
+  - example: likelihood of dying from a terrorist attack versus drowning in a bathtub
+  - demo: does L occur more often as first letter or third letter of a word?
   - example: quiz show study
+* anchoring
+  - example (from Dan Ariely): Tom Sawyer
   - example: $5 difference in cost for $2 pen vs $200 suit
   - example: "foot-in-the-door" technique
   - demo: write down the last two digits of your SSN, would you pay more or less for item?  how much?
