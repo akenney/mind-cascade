@@ -71,7 +71,7 @@ Learning / memory
   - example: shaking hands with amnesia patient
 
 
-Language / mental representation
+Language
 * phonemes are not just sounds
   - demo: VOT categorical perception
   - demo: McGurk effect
@@ -94,7 +94,7 @@ Language / mental representation
   - demo: spling
 * syntax
   - colorless green ideas sleep furiously
-  - syntactic ambiguity
+  - syntactic ambiguity / garden-path sentences
   - center-embedding
 * pragmatics
   - pronoun reference
