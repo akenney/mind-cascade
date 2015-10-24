@@ -51,13 +51,15 @@ Learning / memory
     - example: learning to obey parents
   + some things can be associated more easily than others
     - example: rats can associate taste with nausea and light/sound with shock but not vice-versa
+* encoding
+  - chunks, 7 +/- 2
+  - example: chessmasters are better at remembering chess boards, but *worse* at unrealistic ones
+* why do we forget things?
+  - people who remember everything
 * flashbulb memories
 * false memories
   - example: Bugs Bunny at Disneyland
   - demo: listen to list of words, recall word that wasn't in the list ("sweet")
-* encoding
-  - chunks, 7 +/- 2
-  - example: chessmasters are better at remembering chess boards, but *worse* at unrealistic ones
 * the more you process something, the better you remember it
   - example: decide whether word is capitalized / fits in sentence
   - demo: spaced vs massed repetition
@@ -67,32 +69,36 @@ Learning / memory
 * implicit versus explicit
   - demo: which direction is Mona Lisa facing
   - example: shaking hands with amnesia patient
-* why do we forget things?
-  - people who remember everything
 
 
 Language / mental representation
-* phonemes are categorical
-* combining multiple input sources
+* phonemes are not just sounds
+  - demo: VOT categorical perception
   - demo: McGurk effect
 * word segmentation is not obvious
+  - demo: "little" out of context
   - example: "where are the silences between words?"
   - example: babies learning from conditional probabilities
 * word learning
   - example: co-occurrence probabilities
   - demo: pragmatics/informativeness
-* different words contain different amounts of information, context is important
-  - demo: "little" out of context
-  - demo: how many guesses to guess the next letter
-* mental representations of language
-  - demo: semantic priming: [TODO]
-  - demo: syntactic priming: [TODO]
 * categories
   - demo: category levels: is this a tufa?
   - demo: prototypes: draw a chair, show me a color
-  - demo: asymmetric similarity: how much is a chicken like a sparrow vs a sparrow like a chicken?
-  - you can recognize things from different positions, angles, occlusions, etc
-      (cf 9.00 lecture 5 slide 11)
+* meanings can be related to sounds
+  - demo: round vs pointy
+  - demo: simple vs complex
+* different words contain different amounts of information, context is important
+  - demo: how many guesses to guess the next word
+* morphology
+  - demo: spling
+* syntax
+  - colorless green ideas sleep furiously
+  - syntactic ambiguity
+  - center-embedding
+* pragmatics
+  - pronoun reference
+  - literal question answering / sarcasm
 
 
 Decision-making / logic
