@@ -102,36 +102,44 @@ Language
 
 
 Decision-making / logic
-* framing
-  - demo: "none will be saved" vs "all will die"
 * people have bad intuition for some kinds of probability
   - demo: which is more likely, HHHHH or HTHHT?
   - demo: base rate neglect
   - demo: birthday problem
+* people are bad at some kinds of logic
+  - demo: Wason card task (and social version)
 * availability heuristic
-  - example: likelihood of dying from a terrorist attack versus drowning in a bathtub
   - demo: does L occur more often as first letter or third letter of a word?
+  - example: likelihood of dying from a terrorist attack versus drowning in a bathtub
   - example: quiz show study
+* confirmation bias (in hypothesis testing, interpreting, and remembering)
+  - example: people judge studies that support their opinions to be better-conducted
+* you like things better that are more familiar
+  - demo: random characters
+  - example: friendships are largely based on who you happen to be around
+  - example: writing about a belief makes you believe it more strongly
+* framing
+  - demo: "none will be saved" vs "all will die"
 * anchoring
   - example (from Dan Ariely): Tom Sawyer
   - example: $5 difference in cost for $2 pen vs $200 suit
+  - example: $10 today or $11 tomorrow, versus $10 in 100 days or $11 in 101 days
   - example: "foot-in-the-door" technique
   - demo: write down the last two digits of your SSN, would you pay more or less for item?  how much?
-* confirmation bias (in hypothesis testing, interpreting, and remembering)
-  - example: people judge studies that support their opinions to be better-conducted
-  - demo: Wason card task
+* we don't inherently know the causes of our decisions
+  - example: stockings on the right are the best
+  - example: which face is more attractive and why
+* cognitive dissonance
+  - demo: rank candies, get one, rank again
+  - example: being considerate/aware
+  - example: place value on sports tickets you did or didn't get
+  - example: do a boring task for a reward or for free, rate its enjoyability
+  - example: walk around in chicken suit and judge distance
 * opinions/behaviors depend on expectations
   - example: vinegar in beer
   - example: stereotype threat: write down ethnicity/gender before taking test
   - example: self-fulfilling prophecy: blue-eyed vs brown-eyed scarves
   - example: self-fulfilling prophecy: people perceived as attractive behave more attractively
-* cognitive dissonance
-  - example: place value on sports tickets you did or didn't get
-  - demo: do a boring task for a reward or for free, rate its enjoyability
-* you like things better that are more familiar
-  - example: friendships are largely based on who you happen to be around
-  - example: writing about a belief makes you believe it more strongly
-  - demo: random characters
 
 
 Social / morality
