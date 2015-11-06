@@ -143,7 +143,7 @@ Decision-making / logic
 
 
 Social / morality
-* emotions are relative
+* happiness is relative
   - example: people who win the lottery / become paraplegic
 * physical state affects emotional state
   - example: pencil in mouth
@@ -151,21 +151,17 @@ Social / morality
 * behavior is very context-dependent and different from what you think you would do
   - example: social desirability bias
   - example: good Samaritan effect
+* conformity and obedience
+  - varies by culture
   - example: bystander effect
-  - example: Asch conformity study, broken window theory
+  - example: Asch conformity study, elevator, broken window theory
   - example: Milgram and obedience
   - example: Stanford Prison Experiment
 * perception of people
   + ingroup is heterogeneous and other people are all the same
   + my behavior is based on circumstances but other people's is based on personality
   - example: halo effect: people wearing "fake" sunglasses cheat more
-  - demo: halo effect
-* internal versus external motivation
-  - example: rewarding kids for drawing pictures
-  - example: praise for behavior versus for personality
-* social interaction/roles
-  - example: rats and cocaine versus playground
-  - example: learned helplessness
+  - demo: halo effect (TODO)
 * morality
   - demo: punishment based on outcome rather than intention
   - demo: trolley problem
