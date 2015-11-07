@@ -161,7 +161,7 @@ Social / morality
   + ingroup is heterogeneous and other people are all the same
   + my behavior is based on circumstances but other people's is based on personality
   - example: halo effect: people wearing "fake" sunglasses cheat more
-  - demo: halo effect (TODO)
+  - demo: halo effect
 * morality
   - demo: punishment based on outcome rather than intention
   - demo: trolley problem
